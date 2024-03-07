@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey, I'm Huang Haifeng! 👋
 
-<!--
-**HuangHaifenga/HuangHaifenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=HuangHaifenga&show_icons=true" alt="My GitHub Stats" height="" align="right" width="40%" />
 
-Here are some ideas to get you started:
+<img media="(prefers-color-scheme: dark)" align="right" src="https://github-readme-stats.vercel.app/api?username=HuangHaifenga&show_icons=true&icon_color=CE1D2D&text_color=c9d1d9&bg_color=010409&hide_title=true" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on DaLian
+- 🌱 I’m currently learning Vue3 and Typescript
+- 👯 I’m looking to collaborate on Vue3
+- 💬 Ask me about Vue3
+- ⚡ Fun fact: Development programs
